@@ -1,2 +1,2 @@
 # Otel-Otomasyonu
-C# İle Yapılmış Otel Otomasyonu
+C# Otel Otomasyonu
